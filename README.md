@@ -1,4 +1,5 @@
 # React Chrome Extension with Vite4
+> Archived repo. Please [use docs](https://crxjs.dev/vite-plugin) or new generator project https://github.com/crxjs/create-crxjs
 
 ### How to run?
 
